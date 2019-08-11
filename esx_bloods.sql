@@ -14,9 +14,9 @@ INSERT INTO `org` (name, label) VALUES
 	('bloods','Bloods')
 ;
 
-INSERT INTO `org_gradeorg` (`org_name`, `gradeorg`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES
-	('bloods',0,'recruit','Recrue',20,'{}','{}'),
-	('bloods',1,'sergeant','Bloods',60,'{}','{}'),
-	('bloods',2,'lieutenant','Capitaine',85,'{}','{}'),
-	('bloods',3,'boss','Chef',100,'{}','{}')
+INSERT INTO `org_gradeorg` (`org_name`, `gradeorg`, `name`, `label`, `skin_male`, `skin_female`) VALUES
+	('bloods',0,'recruit','Recrue','{}','{}'),
+	('bloods',1,'sergeant','Bloods','{}','{}'),
+	('bloods',2,'lieutenant','Capitaine','{}','{}'),
+	('bloods',3,'boss','Chef','{}','{}')
 ;
